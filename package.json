@@ -22,5 +22,8 @@
   "homepage": "https://github.com/fyzm/gulu-demo#readme",
   "dependencies": {
     "vue": "^2.5.19"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
   }
 }
